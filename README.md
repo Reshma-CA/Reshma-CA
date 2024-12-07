@@ -1,7 +1,5 @@
-# Hey, I'm **Reshma.CA** 👋
-
-## 🚀 About Me
-I'm **Reshma.CA**, a passionate **Full Stack Developer** from India with expertise in **Python-Django** and **React**. I love turning complex problems into simple, scalable solutions. My journey in web development started a few years ago, and I’ve been dedicated to creating impactful, user-centric applications ever since.
+<h1 align="center">Hi 👋, I'm Reshma.CA</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=reshma-ca&label=Profile%20views&color=0e75b6&style=flat" alt="reshma-ca" /> </p>
 
