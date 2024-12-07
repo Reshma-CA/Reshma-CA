@@ -1,34 +1,58 @@
-# Hi 👋, I'm **Reshma.CA**!
+# Hey, I'm **Reshma.CA** 👋
 
-I'm a passionate **Full-Stack Developer** from India specializing in **Python-Django** and **React**. I thrive on creating impactful web applications and enjoy working with both front-end and back-end technologies. Let's build something amazing together! 🚀
+## 🚀 About Me
+I'm **Reshma.CA**, a passionate **Full Stack Developer** from India with expertise in **Python-Django** and **React**. I love turning complex problems into simple, scalable solutions. My journey in web development started a few years ago, and I’ve been dedicated to creating impactful, user-centric applications ever since.
 
-## 💻 About Me:
-- 🔭 I’m currently working on **Python-Django** and **React** projects
-- 🌱 I’m constantly learning and exploring new technologies
-- 🏆 I love solving complex problems and building intuitive user experiences
-- 📫 Reach out to me at: [reshmacaci@gmail.com](mailto:reshmacaci@gmail.com)
+## 📊 My Stats
+![Profile Views](https://komarev.com/ghpvc/?username=ReshmaCA)
+![GitHub Followers](https://img.shields.io/github/followers/ReshmaCA?label=Followers&style=social)
+![LinkedIn Followers](https://img.shields.io/badge/LinkedIn-Follow%20Me-blue?style=social&logo=linkedin)
+![Facebook Friends](https://img.shields.io/badge/Facebook-Friends-green?style=social&logo=facebook)
 
-## 📬 Connect with me:
+## 🏆 GitHub Trophies
+![Trophy](https://github-profile-trophy.vercel.app/?username=ReshmaCA&theme=radical)
+
+## 🛠️ Skills
+
+### Languages:
+- Python, JavaScript, HTML5, CSS3, SQL, NoSQL
+
+### Front-End Development:
+- React, Redux, Bootstrap, TailwindCSS, JavaScript, HTML5, CSS3
+
+### Back-End Development:
+- Python, Django, Flask, Node.js, Express
+
+### Databases:
+- PostgreSQL, MongoDB, MySQL
+
+### DevOps:
+- AWS, Docker, Nginx
+
+### Design Tools:
+- Figma, Adobe XD, Canva
+
+### Testing:
+- Jest, PyTest, Postman
+
+## 🖥️ Workspace Setup
+- **Processor**: Intel i7 8th Gen
+- **Graphics**: Intel UHD 620
+- **OS**: Windows 11
+- **IDE**: VS Code
+
+## 🔗 Links
+- [Portfolio](#)
+- [Resume](#)
 - [LinkedIn](https://www.linkedin.com/in/reshmaca)
+- [GitHub](https://github.com/ReshmaCA)
+- [Medium](#)
+- [Dev](#)
+- [Gmail](mailto:reshmacaci@gmail.com)
 
-## 🛠 Languages and Tools:
-- **Frontend**: HTML5, CSS3, Bootstrap, JavaScript, React
-- **Backend**: Python, Django, Flask
-- **Databases**: PostgreSQL, MongoDB
-- **Version Control**: Git
-- **Design & Collaboration**: Figma
+## ✍️ Dev Quote
+"Code is like humor. When you have to explain it, it’s bad." – Cory House
 
-## 🔧 Technologies I Work With:
-- **Frontend**: HTML5, CSS3, React, Bootstrap
-- **Backend**: Django, Flask
-- **Database**: PostgreSQL, MongoDB
-- **Others**: Git, Figma
+## 😂 Dev Meme
+![Meme](https://media.giphy.com/media/3o7btE3NPHoAKdb0k0/giphy.gif)
 
-## 🌱 I'm currently learning:
-- Advanced Django features
-- Machine learning with Python
-- More on **React** and **State Management**
-
----
-
-Let's connect and collaborate! Looking forward to bringing more exciting projects to life.
