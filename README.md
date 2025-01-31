@@ -63,10 +63,5 @@ I'm **Reshma.CA**, a passionate **Full Stack Developer** from India with experti
 
 > "The best way to predict the future is to create it." – Peter Drucker
 
----
-
-
-
----
 
 
