@@ -4,7 +4,7 @@
   <img src="https://visitor-badge.glitch.me/badge?page_id=reshma-ca.reshma-ca" alt="visitors" />
 </p>
 
-![Banner](https://via.placeholder.com/1200x300.png?text=Welcome+to+Reshma's+GitHub+Profile!)
+
 
 ---
 
