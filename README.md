@@ -49,8 +49,7 @@ I'm **Reshma.CA**, a passionate **Full Stack Developer** from India with experti
 
 ---
 
-### 🖥️ Portfolio
-[![Portfolio]([https://via.placeholder.com/600x400.png?text=Visit+My+Portfolio](https://mir-s3-cdn-cf.behance.net/projects/404/49f28e189617081.Y3JvcCwxMDA2LDc4NywxOTYsMA.jpg))](https://reshma-ca-portfolio.netlify.app/)
+
 
 ---
 
