@@ -1,7 +1,7 @@
 # Hey, I'm **Reshma.CA** 👋
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=reshma-ca&label=Profile%20views&color=0e75b6&style=flat" alt="reshma-ca" /> </p>
 
-![Banner](https://via.placeholder.com/1200x300.png?text=Welcome+to+Reshma%27s+GitHub+Profile!)
+
 
 
  
@@ -50,7 +50,7 @@ I'm **Reshma.CA**, a passionate **Full Stack Developer** from India with experti
 ---
 
 ### 🖥️ Portfolio
-[![Portfolio](https://via.placeholder.com/600x400.png?text=Visit+My+Portfolio)](https://reshma-ca-portfolio.netlify.app/)
+[![Portfolio]([https://via.placeholder.com/600x400.png?text=Visit+My+Portfolio](https://mir-s3-cdn-cf.behance.net/projects/404/49f28e189617081.Y3JvcCwxMDA2LDc4NywxOTYsMA.jpg))](https://reshma-ca-portfolio.netlify.app/)
 
 ---
 
