@@ -2,7 +2,7 @@
 <p align="left"> 
    <img src="https://komarev.com/ghpvc/?username=reshma-ca&label=Profile%20views&color=0e75b6&style=flat" alt="reshma-ca" /> 
    
-   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&duration=4000&pause=1000&color=0F0F0F&center=true&vCenter=true&width=600&height=60&lines=Full+Stack+Developer+%7C+Python-Django+%7C+React;Building+Scalable+and+User-Friendly+Applications;Always+Learning+%7C+Open+to+Opportunities" alt="Typing SVG" />
+   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&duration=4000&pause=1000&color=520559&center=true&vCenter=true&width=600&height=60&lines=Full+Stack+Developer+%7C+Python-Django+%7C+React;Building+Scalable+and+User-Friendly+Applications;Always+Learning+%7C+Open+to+Opportunities" alt="Typing SVG" />
 </p>
 
 
