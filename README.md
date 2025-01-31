@@ -27,7 +27,7 @@ I'm **Reshma.CA**, a passionate **Full Stack Developer** from India with experti
 
 | **Frontend** | **Backend** | **Database** | **Tools** |
 |--------------|-------------|--------------|-----------|
-| ![HTML](https://img.shields.io/badge/HTML-90%25-orange) <br> ![CSS](https://img.shields.io/badge/CSS-85%25-blue) <br> ![JavaScript](https://img.shields.io/badge/JavaScript-75%25-yellow) <br> ![React](https://img.shields.io/badge/React-80%25-blue) | ![Python](https://img.shields.io/badge/Python-90%25-blue) <br> ![Django](https://img.shields.io/badge/Django-85%25-green) <br> ![Flask](https://img.shields.io/badge/FastAPI-70%25-teal) | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-80%25-blue) <br> ![MongoDB](https://img.shields.io/badge/MongoDB-75%25-green) | ![Git](https://img.shields.io/badge/Git-90%25-orange)  |
+| ![HTML](https://img.shields.io/badge/HTML-90%25-orange) <br> ![CSS](https://img.shields.io/badge/CSS-85%25-blue) <br> ![JavaScript](https://img.shields.io/badge/JavaScript-75%25-yellow) <br> ![React](https://img.shields.io/badge/React-80%25-blue) | ![Python](https://img.shields.io/badge/Python-90%25-blue) <br> ![Django](https://img.shields.io/badge/Django-85%25-green) <br> ![Flask](https://img.shields.io/badge/Flask-70%25-teal) | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-80%25-blue) <br> ![MongoDB](https://img.shields.io/badge/MongoDB-75%25-green) | ![Git](https://img.shields.io/badge/Git-90%25-orange)  |
 
 ---
 
