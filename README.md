@@ -64,15 +64,4 @@ I'm **Reshma.CA**, a passionate **Full Stack Developer** from India with experti
 
 ---
 
-### 🎧 Now Playing
-[![Spotify](https://spotify-now-playing-kappa.vercel.app/api/spotify)](https://open.spotify.com/user/your-spotify-id)
 
----
-
-### 📊 GitHub Activity Graph
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=reshma-ca&theme=react-dark)
-
----
-
-### Visitor Count
-![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=reshma-ca.reshma-ca)
