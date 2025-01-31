@@ -1,7 +1,8 @@
 # Hey, I'm **Reshma.CA** 👋
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=reshma-ca&label=Profile%20views&color=0e75b6&style=flat" alt="reshma-ca" /> </p>
 
-![Banner](https://via.placeholder.com/1200x300.png?text=Welcome+to+Reshma's+GitHub+Profile!)
+![Banner](https://via.placeholder.com/1200x300.png?text=Welcome+to+Reshmas+GitHub+Profile!)
+
 
 ## 🚀 About Me
 - 🌟 Passionate **Full Stack Developer** from India
