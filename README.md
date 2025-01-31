@@ -1,77 +1,78 @@
+![Banner](https://via.placeholder.com/1200x300.png?text=Welcome+to+Reshma's+GitHub+Profile!)
+
+## 🚀 About Me
+- 🌟 Passionate **Full Stack Developer** from India
+- 💻 Expertise in **Python-Django** and **React**
+- 🎯 Turning complex problems into simple, scalable solutions
+
+- ![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=reshma-ca.reshma-ca)
+
+- ### 🛠️ Skills
+![Python](https://img.shields.io/badge/Python-90%25-blue)
+![Django](https://img.shields.io/badge/Django-85%25-green)
+![React](https://img.shields.io/badge/React-80%25-orange)
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=reshma-ca&theme=react-dark)
+
+### 🎧 Now Playing
+[![Spotify](https://spotify-now-playing-kappa.vercel.app/api/spotify)](https://open.spotify.com/user/your-spotify-id)
+
+### 💡 Fun Fact
+> "The best way to predict the future is to create it." – Peter Drucker
+>
+> <details>
+  <summary>📌 About Me</summary>
+  - 🌟 Passionate **Full Stack Developer** from India
+  - 💻 Expertise in **Python-Django** and **React**
+</details>
+
+<details>
+  <summary>🛠️ Skills</summary>
+  - Python, Django, React, JavaScript, HTML, CSS
+</details>
+
+### 🖥️ Portfolio
+[![Portfolio](https://via.placeholder.com/600x400.png?text=Visit+My+Portfolio)](https://reshma-ca-portfolio.netlify.app/)
+
+### 🔗 Connect with Me
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/reshmacaci)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/reshmaca)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/reshmaca)
+
+### 🏆 GitHub Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=reshma-ca&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+### ☕ Support Me
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/reshmaca)
+
 # Hey, I'm **Reshma.CA** 👋
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=reshma-ca&label=Profile%20views&color=0e75b6&style=flat" alt="reshma-ca" /> </p>
 
-
+![Banner](https://via.placeholder.com/1200x300.png?text=Welcome+to+Reshma's+GitHub+Profile!)
 
 ## 🚀 About Me
-I'm **Reshma.CA**, a passionate **Full Stack Developer** from India with expertise in **Python-Django** and **React**. I love turning complex problems into simple, scalable solutions. My journey in web development started a few years ago, and I’ve been dedicated to creating impactful, user-centric applications ever since.
+- 🌟 Passionate **Full Stack Developer** from India
+- 💻 Expertise in **Python-Django** and **React**
+- 🎯 Turning complex problems into simple, scalable solutions
 
----
-<h3 align="left">My Status </h3>
+### 🛠️ Skills
+![Python](https://img.shields.io/badge/Python-90%25-blue)
+![Django](https://img.shields.io/badge/Django-85%25-green)
+![React](https://img.shields.io/badge/React-80%25-orange)
 
-<div style="background-color: black; padding: 20px; color: white; text-align: center;">
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=reshma-ca&show_icons=true&locale=en&layout=compact" alt="reshma-ca" /></p>
-  
-  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=reshma-ca&show_icons=true&locale=en" alt="reshma-ca" /></p>
-  
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=reshma-ca&" alt="reshma-ca" /></p>
-</div>
+### 🔗 Connect with Me
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/reshmacaci)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/reshmaca)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/reshmaca)
 
----
-<h3 align="left">🏆 GitHub Trophies </h3>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=reshma-ca" alt="reshma-ca" /></a> </p>
+### 🏆 GitHub Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=reshma-ca&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-- 🔭 I’m currently working on **FastAPI**
-- 🌱 I’m currently learning **Flask, FastAPI**
-- 👨‍💻 All of my projects are available at [Portfolio](https://reshma-ca-portfolio.netlify.app/)
-- 💬 Ask me about **Python**
-- 📫 How to reach me: **reshmacaci@gmail.com**
+### 🖥️ Portfolio
+[![Portfolio](https://via.placeholder.com/600x400.png?text=Visit+My+Portfolio)](https://reshma-ca-portfolio.netlify.app/)
 
-<h3 align="left">🔗Connect with me:</h3>
-<p align="left">
-  <a href="https://twitter.com/reshmacaci" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="reshmacaci" height="30" width="40" /></a>
-  <a href="https://linkedin.com/in/www.linkedin.com/in/reshmaca" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/reshmaca" height="30" width="40" /></a>
-  <a href="https://www.leetcode.com/https://leetcode.com/u/reshmaca" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/reshmaca" height="30" width="40" /></a>
-</p>
+### 💡 Fun Fact
+> "The best way to predict the future is to create it." – Peter Drucker
 
----
-<h3 align="left">🛠️ Skills</h3>
-
-### Frontend Development
-<p align="left">
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-  <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a>
-</p>
-
-### Backend Development
-<p align="left">
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a>
-  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a>
-  <a href="https://python.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-</p>
-
-### Database Management
-<p align="left">
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
-  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a>
-</p>
-
-### DevOps & Cloud Services
-<p align="left">
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
-  <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a>
-</p>
-
-### UI/UX & Design
-<p align="left">
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
-  <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a>
-</p>
-
----
-
+### ☕ Support Me
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/reshmaca)
